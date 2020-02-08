@@ -1,0 +1,7 @@
+#Wed Jun 27 11:45:52 PKT 2018
+base.0=D\:\\android app tutorial\\Tourists Watch\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\79
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\android app tutorial\\Tourists Watch\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\79

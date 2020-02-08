@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+<style name="radiotheme">
+<item name="android:colorAccent">@color/green</item>
+</style>
+
+<style name="TextInput" parent="Widget.Design.TextInputLayout">
+<!-- Hint color and label color in FALSE state -->
+<item name="android:textColorHint">@color/hint</item>
+<item name="android:textColor">@color/textbright</item>
+    <item name="counterOverflowTextAppearance">@color/error</item>
+<!-- Label color in TRUE state and bar color FALSE and TRUE State -->
+<item name="colorAccent">@color/colorAccent</item>
+<item name="colorControlNormal">@color/colorPrimary</item>
+<item name="colorControlActivated">@color/colorPrimaryDark</item>
+</style>
+
+    <style name="AppTheme.Button" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:textSize">18dp</item>
+        <item name="android:radius">10dp</item>
+        <item name="android:padding">8dp</item>
+        <item name="colorButtonNormal">@color/buttonColor</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+</resources>
